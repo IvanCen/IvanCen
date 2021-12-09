@@ -1,5 +1,5 @@
 # Привет всем, меня зовут Иван 👋
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bondiano/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-senkov-4458161a1/)
 
 - 🔥  Люблю JS, верстать по БЭМ и стремлюсь делать интерфейсы красивыми и удобными
 - 🎯  Хочу создать интерфейс, что бы он попал на awwwards
